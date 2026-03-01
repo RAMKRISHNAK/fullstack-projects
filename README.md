@@ -1,4 +1,4 @@
-# Full-Stack Projects (React + Spring Boot + Microservices)
+# Full-Stack Projects (Java + React + Spring Boot + Microservices)
 
 A collection of production-grade full-stack applications built using:
 
